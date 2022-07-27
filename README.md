@@ -1,4 +1,4 @@
-# The Solcurity Standard 
+# The Solcurity Standard Update
 
 Opinionated **security** and **code quality** standard for **Solidity smart contracts**. 
 
